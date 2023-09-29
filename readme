@@ -1,0 +1,2 @@
+C program that emulates serato dj timecode (serato_2a) and send it to JACK
+Use a program like Catia by KXStudio to connect this program's JACK output port to other Vinyl Emulation Software, like xwax
